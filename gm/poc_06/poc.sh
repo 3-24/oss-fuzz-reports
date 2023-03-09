@@ -1,0 +1,1 @@
+./gm conjure -debug all ""
